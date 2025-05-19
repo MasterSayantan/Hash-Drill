@@ -28,7 +28,7 @@ Hash-Drill is a smart terminal-based hash cracking tool written in Python. It au
 Install tqdm with:
 
 ```
-git clone https://github.com/sayantan-saha-cmd/Hash-Drill.git
+git clone https://github.com/MasterSayantan/Hash-Drill.git
 cd Hash-Drill
 pip3 install -r requirements.txt
 ```
